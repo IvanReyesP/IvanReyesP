@@ -24,22 +24,23 @@
 - 📧 **Email:** [ivanzhor64@gmail.com](mailto:ivanzhor64@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/ivánryp26](https://www.linkedin.com/in/ivánryp26)  
 - 🎮 **Discord:** [https://discord.com/channels/@me/1402672598843654355]  
-- 🌐 **Portafolio:** [Ver proyectos aquí](#)  
+- 🌐 **Portfolio:** [Ver proyectos aquí](#)  
 
 ---
 
-## 📚 Formación
-🎓 Recientemente finalicé mi programa de estudios en **TripleTen Bootcamp**, donde trabajé en proyectos prácticos aplicando:  
-- Pruebas manuales y de API  
-- Automatización de pruebas con Selenium y Python  
-- Manejo de bases de datos con PostgreSQL  
-- Diseño y validación de UI con Figma  
-- Reporte y seguimiento de bugs en Postman y Jira  
+## 📚 Education
+🎓 I recently completed my program at **TripleTen Bootcamp**, where I worked on practical projects applying:  
+- Manual testing (creation of checklist and test cases)  
+- Test automation with Selenium and Python  
+- Database management with PostgreSQL  
+- UI design and validation with Figma  
+- Bug reporting and tracking Jira
+- Checking and tracking functions with Postman
 
 ---
 
-## 💡 Aspiración Profesional
-Busco vincularme a **compañías de tecnología** donde pueda aplicar mis habilidades en QA, crecer profesionalmente y contribuir al desarrollo de productos confiables, escalables y con una excelente experiencia de usuario.  
+## 💡 Career Aspiration
+I am looking to join a **technology company** where I can apply my QA skills, grow professionally, and contribute to the development of reliable, scalable products with excellent user experience.  
 
 ---
 
