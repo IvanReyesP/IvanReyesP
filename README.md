@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/e140eb1e-358f-4a4a-b307-f2ffd7d73be1" width="600" alt="Bug Banner">
 </p>
 
-<h1 align="center">👋 Hola, me llamo Ivan</h1>
+<h1 align="center">👋 Hi there, I´m Iván</h1>
 <h3 align="center">QA ninja ⚔️ | Fighting bugs in silence</h3>
 
 ---
@@ -20,10 +20,10 @@
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 - 📧 **Email:** [ivanzhor64@gmail.com](mailto:ivanzhor64@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/ivánryp26](https://www.linkedin.com/in/ivánryp26)  
-- 🎮 **Discord:** [Tu enlace a Discord aquí]  
+- 🎮 **Discord:** [https://discord.com/channels/@me/1402672598843654355]  
 - 🌐 **Portafolio:** [Ver proyectos aquí](#)  
 
 ---
