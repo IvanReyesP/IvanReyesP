@@ -1,8 +1,7 @@
 <!-- Banner Animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38C2FF&center=true&vCenter=true&random=false&width=435&lines=👋+Hola%2C+soy+Ivan;QA+Ninja+⚔️+Fighting+bugs+in+silence" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="QA Banner GIF">
 </p>
-
 
 <h1 align="center">👋 Hola, me llamo Ivan</h1>
 <h3 align="center">QA ninja ⚔️ | Fighting bugs in silence</h3>
