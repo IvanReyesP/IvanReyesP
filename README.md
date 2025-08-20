@@ -25,7 +25,7 @@
 ## 📫 Contact
 - 📧 **Email:** [ivanzhor64@gmail.com](mailto:ivanzhor64@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/ivánryp26](https://www.linkedin.com/in/ivánryp26)  
-- 🎮 **Discord:** [https://discord.com/channels/@me/1402672598843654355]  
+- 🎮 **Discord:** [ivanzho6987]  
 - 🌐 **Portfolio:** [Ver proyectos aquí](#)  
 
 ---
