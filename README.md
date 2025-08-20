@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/tu-usuario/banner-testing.jpg" width="100%" alt="Software Testing Banner"/>
+  <img src="URL_DE_TU_BUG_GIF" width="600" alt="Fix all the bugs!">
 </p>
 
 <h1 align="center">👋 Hola, me llamo Ivan</h1>
