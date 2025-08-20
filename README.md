@@ -3,7 +3,9 @@
   <img src="https://github.com/user-attachments/assets/e140eb1e-358f-4a4a-b307-f2ffd7d73be1" width="600" alt="Bug Banner">
 </p>
 
-<h1 align="center">👋 Hi there, I´m Iván</h1>
+<!-- Presentación -->
+<h1 align="center">
+  Hi there!, I´m Iván <a href="#"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a>
 <h3 align="center">QA ninja ⚔️ | Fighting bugs in silence</h3>
 
 ---
