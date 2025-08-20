@@ -1,6 +1,6 @@
 <!-- Banner animado de Bug -->
 <p align="center">
-  <img src="URL_DE_TU_BUG_GIF" width="600" alt="Fix all the bugs!">
+  <img src="https://i.imgur.com/abc123.gif" width="600" alt="Bug Banner">
 </p>
 
 <h1 align="center">👋 Hola, me llamo Ivan</h1>
