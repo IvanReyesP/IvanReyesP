@@ -1,6 +1,6 @@
 <!-- Banner animado de Bug -->
 <p align="center">
-  <img src="assets/bug" width="600" alt="Bug Banner">
+  <im src="assets/bug" width="600" alt="Bug Banner">
 </p>
 
 <h1 align="center">👋 Hola, me llamo Ivan</h1>
