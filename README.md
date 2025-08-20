@@ -1,50 +1,41 @@
-<!-- Banner Animado -->
+<!-- Banner GIF animado -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="QA Banner GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnN5ZnR6OHdiOHc4cGVqZXV3dnhxZTN4NXRpM2h2bnU1bzFoazY3ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="600" alt="QA Testing Banner">
 </p>
 
-<h1 align="center">👋 Hola, me llamo Ivan</h1>
-<h3 align="center">QA ninja ⚔️ | Fighting bugs in silence</h3>
+<!-- Texto animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=👋+Hola%2C+me+llamo+Ivan;QA+Ninja+⚔️+Fighting+bugs+in+silence" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+## 🛠️ Herramientas y Lenguajes
+- Android Studio  
+- Postman  
+- PostgreSQL  
+- Selenium  
+- Python  
+- Figma  
 
 ---
 
 ## 📫 Contacto
-- 📧 **Email:** [ivanzhor64@gmail.com](mailto:ivanzhor64@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/ivánryp26](https://www.linkedin.com/in/ivánryp26)  
-- 🎮 **Discord:** [Tu enlace a Discord aquí]  
-- 🌐 **Portafolio:** [Ver proyectos aquí](#)  
+- **Email:** ivanzhor64@gmail.com  
+- **LinkedIn:** [www.linkedin.com/in/ivánryp26](https://www.linkedin.com/in/ivánryp26)  
+- **Discord:** [Entra a mi servidor](https://discord.com/)  
+- **Portafolio:** [Mis proyectos](https://tu-portafolio.com)  
 
 ---
 
-## 📚 Formación
-🎓 Recientemente finalicé mi programa de estudios en **TripleTen Bootcamp**, donde trabajé en proyectos prácticos aplicando:  
-- Pruebas manuales y de API  
-- Automatización de pruebas con Selenium y Python  
-- Manejo de bases de datos con PostgreSQL  
-- Diseño y validación de UI con Figma  
-- Reporte y seguimiento de bugs en Postman y Jira  
+## 📚 Experiencias de Estudio
+🎓 Bootcamp de tecnología en **TripleTen**, aplicando procesos clave para el aseguramiento de calidad de software.  
 
 ---
 
-## 💡 Aspiración Profesional
-Busco vincularme a **compañías de tecnología** donde pueda aplicar mis habilidades en QA, crecer profesionalmente y contribuir al desarrollo de productos confiables, escalables y con una excelente experiencia de usuario.  
+## 🚀 Aspiraciones
+Busco vincularme con **compañías de tecnología** donde pueda crecer como QA Engineer Junior, colaborar con equipos dinámicos y aportar a la mejora continua de aplicaciones confiables y de alta calidad.  
 
----
 
-<p align="center">
-  <em>“Testing today, improving tomorrow”</em> 🚀
-</p>
 
 
