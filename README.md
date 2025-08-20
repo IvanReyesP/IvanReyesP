@@ -1,6 +1,6 @@
 <!-- Banner animado de Bug -->
 <p align="center">
-  <img src="https://imgur.com/a/QaeEYto" width="600" alt="Bug Banner">
+  <img src="https://github.com/user-attachments/assets/e140eb1e-358f-4a4a-b307-f2ffd7d73be1" width="600" alt="Bug Banner">
 </p>
 
 <h1 align="center">👋 Hola, me llamo Ivan</h1>
